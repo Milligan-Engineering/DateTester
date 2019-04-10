@@ -23,10 +23,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\BO_Example\BO_Example\stdafx.h">
+    <ClInclude Include="dateClass.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="dateClass.h">
+    <ClInclude Include="stdafx.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

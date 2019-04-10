@@ -119,8 +119,8 @@
     <ClCompile Include="DateTester.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\BO_Example\BO_Example\stdafx.h" />
     <ClInclude Include="dateClass.h" />
+    <ClInclude Include="stdafx.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

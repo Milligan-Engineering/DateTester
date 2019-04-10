@@ -8,6 +8,8 @@ public:
 	dateClass(int val1); // if val1=0 initializes to todays date
 	~dateClass();
 
+	friend bool sameDateFriend(dateClass date1, dateClass date2);
+
 	void inputDates();
 	//Precondition: None
 	//Postcondition: montVal, dayVal, and yearVal are filled with user input (with validation).
