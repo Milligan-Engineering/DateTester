@@ -9,6 +9,7 @@
 #include "dateClass.h"
 
 
+
 using namespace std;
 
 bool sameDate(dateClass date1, dateClass date2);
@@ -18,7 +19,12 @@ char a;
 
 
 int main()
+
 {
+
+
+
+
 	dateClass todayDate( 0 );
 	dateClass oldDate(4, 3, 2019);
 	dateClass enterDate;

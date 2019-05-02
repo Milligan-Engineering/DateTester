@@ -1,6 +1,6 @@
 #include "stdafx.h"
 #include "dateClass.h"
-
+#include "SecondstoDateClass.h"
 
 dateClass::dateClass()
 {
